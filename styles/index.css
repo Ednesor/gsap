@@ -1,0 +1,37 @@
+.superman,
+.imagen{
+    width: 100px;
+}
+.circle._1{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.circle._2{
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.circle._3{
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.circle._4{
+    background-color: pink;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.circle._5{
+    background-color: orange;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.container{
+    display: flex;
+}
